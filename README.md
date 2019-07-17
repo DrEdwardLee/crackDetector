@@ -15,10 +15,10 @@ a) This released is written for the Matlab interpreter (tested with versions R20
    
 b) As geodetic distance transformation and seeded topological watershed transformation are used to generate over-complete potential crack paths, the following two Toolbox are required:
    
-    1.  Dirk-Jan Kroon's  Accurate Fast Marching Toolbox. It can be downloaded at:
+   1.  Dirk-Jan Kroon's  Accurate Fast Marching Toolbox. It can be downloaded at:
         https://www.mathworks.com/matlabcentral/fileexchange/24531-accurate-fast-marching
        
-    2.  The DIPimage toolbox is requred for the seeded topological watershed transformation . It can be downloaded at:
+   2.  The DIPimage toolbox is requred for the seeded topological watershed transformation . It can be downloaded at:
         http://www.diplib.org/download
        
        
