@@ -1,10 +1,9 @@
 # crackDetector
 
-########################################################################################### 
-a robust graph network refining algorithm guided by multi-scale curvilinear structure 
-filtering (CFGNR)  for pavement crack detection
+####################################################################################################### 
+Graph network refining for pavement crack detection based on multi-scale curvilinear structure filter
 
-########################################################################################### 
+#######################################################################################################
 
 
 1.Installation.
